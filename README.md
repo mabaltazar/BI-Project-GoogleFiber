@@ -82,9 +82,8 @@ Your interviewers have provided three CSV files:
 * [Market_3](https://docs.google.com/spreadsheets/d/1K6X9ZhjWtbneBss7PQH7IobGCzQ5NzG1hxs1D-hbsZM/template/preview?resourcekey=0-q90E-1XwD8nkNSjs0Ws3-w)
 
 Upload to BigQuery
-First, navigate to your BigQuery console. Go to the BigQuery homepage or go directly to 
-the console
-. 
+First, navigate to your BigQuery console. Go to the BigQuery homepage or go directly to the console.
+![BigQuery Console] 
 
 The BigQuery homepage with the Go to console button
 
