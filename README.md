@@ -87,12 +87,12 @@ The BigQuery homepage with the Go to console button
 ![BigQuery Console](https://github.com/mabaltazar/BI-Project-GoogleFiber/blob/Images/BigQueryConsole.png)
 
 Click on the + ADD DATA button in the Explorer menu pane to open the Add Data menu. 
-
 The Add Data menu in BigQuery
+![BigQuery Explorer](https://github.com/mabaltazar/BI-Project-GoogleFiber/blob/Images/BigQueryExplorer.png)
 
 From here, select Local file to upload the CSV or Google Cloud Storage to choose the sheet from your personal Drive. However you add the file, you will need to fill out the necessary fields in the Create Table menu. If you haven’t already, the Create table menu will also prompt you to create a dataset to house this table.
-
 Create table menu prompting user to CREATE NEW DATASET
+![CreateTable]
 
 Select CREATE NEW DATASET and name the dataset appropriately for this project. Leave the data location set to default. Once you have completed filling out this information, click Create Dataset. 
 
