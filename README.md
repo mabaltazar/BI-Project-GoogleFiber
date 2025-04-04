@@ -92,8 +92,22 @@ The Add Data menu in BigQuery
 
 From here, select Local file to upload the CSV or Google Cloud Storage to choose the sheet from your personal Drive. However you add the file, you will need to fill out the necessary fields in the Create Table menu. If you haven’t already, the Create table menu will also prompt you to create a dataset to house this table.
 Create table menu prompting user to CREATE NEW DATASET
-![CreateTable]
+![CreateTable](https://github.com/mabaltazar/BI-Project-GoogleFiber/blob/Images/BigQueryCreateTable.png)
 
 Select CREATE NEW DATASET and name the dataset appropriately for this project. Leave the data location set to default. Once you have completed filling out this information, click Create Dataset. 
 
 Now, finish filling out the information for your table. Name your table appropriately for your project and select CSV under file type. Finally, select Auto detect for the schema. Once done, select Create Table. The new table should appear under your dataset in the Explorer pane momentarily. 
+
+## Scenario
+The Google Fiber customer service team’s goal is to understand how often customers are calling customer support after their first inquiry; this will help leadership understand how effectively the team is able to answer customer questions the first time. The dashboard you create should demonstrate an understanding of this goal and provide your stakeholders with insights about repeat caller volumes in different markets and the types of problems they represent. As part of the interview process, they have asked you to create a dashboard that will: 
+
+* Help them understand how often customers are calling customer support after their first inquiry; this will help leadership understand how effectively the team is able to answer customer questions the first time
+* Provide insights into the types of customer issues that seem to generate more repeat calls
+* Explore repeat caller trends in the three different market cities
+* Design charts so that stakeholders can view trends by week, month, quarter, and year. 
+
+You met with stakeholders to complete project planning documents and uploaded the necessary tables into your BigQuery project space. 
+
+# Part 3
+
+## Data Visualization!
