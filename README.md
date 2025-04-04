@@ -83,9 +83,8 @@ Your interviewers have provided three CSV files:
 
 Upload to BigQuery
 First, navigate to your BigQuery console. Go to the BigQuery homepage or go directly to the console.
-![BigQuery Console] 
-
 The BigQuery homepage with the Go to console button
+![BigQuery Console](https://github.com/mabaltazar/BI-Project-GoogleFiber/blob/Images/BigQueryConsole.png)
 
 Click on the + ADD DATA button in the Explorer menu pane to open the Add Data menu. 
 
