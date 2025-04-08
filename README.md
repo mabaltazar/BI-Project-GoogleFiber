@@ -98,15 +98,11 @@ Select CREATE NEW DATASET and name the dataset appropriately for this project. L
 
 Now, finish filling out the information for your table. Name your table appropriately for your project and select CSV under file type. Finally, select Auto detect for the schema. Once done, select Create Table. The new table should appear under your dataset in the Explorer pane momentarily. 
 
-## Scenario
-The Google Fiber customer service team’s goal is to understand how often customers are calling customer support after their first inquiry; this will help leadership understand how effectively the team is able to answer customer questions the first time. The dashboard you create should demonstrate an understanding of this goal and provide your stakeholders with insights about repeat caller volumes in different markets and the types of problems they represent. As part of the interview process, they have asked you to create a dashboard that will: 
+## Create target table
 
-* Help them understand how often customers are calling customer support after their first inquiry; this will help leadership understand how effectively the team is able to answer customer questions the first time
-* Provide insights into the types of customer issues that seem to generate more repeat calls
-* Explore repeat caller trends in the three different market cities
-* Design charts so that stakeholders can view trends by week, month, quarter, and year. 
-
-You met with stakeholders to complete project planning documents and uploaded the necessary tables into your BigQuery project space. 
+## Step 1 Log into Google Cloud
+## Step 2 Querying the data
+## Step 3 Download the table
 
 # Part 3
 
